@@ -1,0 +1,4 @@
+---
+# defaults file for nginx-web
+nginx_listen_port: 8080
+destin_folder: /etc/nginx/
